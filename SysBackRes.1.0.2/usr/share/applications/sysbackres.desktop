@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SysBackRes
+Comment=System Backup and Rescue Utility
+Exec=/usr/share/SysBackRes/sysbackres.py
+Icon=sysbackres
+Terminal=false
+Type=Application
+Categories=Utility;System;
+Keywords=backup;restore;clone;ddrescue;sha512;disk;image;
