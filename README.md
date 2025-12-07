@@ -21,3 +21,5 @@ Languages: Azerbaycan, German, English (Default), French, Italian, Japanese, Kor
 <img width="710" height="534" alt="Ekran görüntüsü_2025-11-27_17-35-15" src="https://github.com/user-attachments/assets/75359046-0fbc-4151-899b-b4e1fed4eda1" />
 
 <img width="710" height="534" alt="Ekran görüntüsü_2025-11-27_17-35-48" src="https://github.com/user-attachments/assets/8ff1d85c-7489-419e-925f-cb624e015bc2" />
+
+<img width="710" height="534" alt="Ekran görüntüsü_2025-12-07_15-44-02" src="https://github.com/user-attachments/assets/4705f2e9-f948-43af-8a16-a26c9a868d7a" />
